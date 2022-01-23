@@ -18,6 +18,10 @@ p {
     color: #848199;
 }
 
+.nav-color {
+    color: #FA804C;
+}
+
 .bg-main {
     background-color: #FFFFFF;
 }
@@ -53,4 +57,9 @@ p {
 
 .custom-icon-style {
     color: #5243C2;
+}
+
+.footer {
+    background-color: #0B0D17;
+    height: 280px;
 }
