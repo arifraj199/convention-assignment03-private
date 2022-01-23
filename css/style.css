@@ -18,6 +18,10 @@ p {
     color: #848199;
 }
 
+.slider-text {
+    color: white;
+}
+
 .nav-color {
     color: #FA804C;
 }
@@ -45,6 +49,7 @@ p {
     background-color: yellow;
     margin-left: 160px;
     top: -15px;
+    color: #120E43;
 }
 
 .price-plus-color p {
