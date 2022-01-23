@@ -1,0 +1,56 @@
+/* google font */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+/* common style */
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    color: #848199;
+}
+
+.bg-main {
+    background-color: #FFFFFF;
+}
+
+.bg-main h1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.price-color,
+.price-info {
+    color: #231D4F;
+}
+
+.price-plus {
+    background-color: #3F87F5;
+    border-radius: 25px;
+}
+
+.price-plus span {
+    background-color: yellow;
+    margin-left: 160px;
+    top: -15px;
+}
+
+.price-plus-color p {
+    color: white;
+}
+
+.price-plus-color .custom-icon-style {
+    color: #FFFFFF;
+}
+
+.custom-icon-style {
+    color: #5243C2;
+}
