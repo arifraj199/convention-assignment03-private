@@ -121,4 +121,7 @@ p {
     .exclusive-plus {
         margin-top: 50px!important;
     }
+    .footer-text {
+        padding-left: 55px!important;
+    }
 }
