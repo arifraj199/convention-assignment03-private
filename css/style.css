@@ -47,7 +47,7 @@ p {
 
 .price-plus span {
     background-color: yellow;
-    margin-left: 160px;
+    margin-left: 200px;
     top: -15px;
     color: #120E43;
 }
@@ -67,4 +67,26 @@ p {
 .footer {
     background-color: #0B0D17;
     height: 280px;
+}
+
+
+/* media queiry for mobile device */
+
+@media only screen and (max-width:575px) {
+    .carousel-content {
+        padding: 2px!important;
+    }
+    .carousel-head-style {
+        margin-bottom: 2px;
+        font-size: 18px;
+    }
+    .slider-text {
+        font-size: 10px;
+        margin-bottom: 2px;
+        text-align: center;
+    }
+    .carousel-button {
+        margin-bottom: 0;
+        padding: 2px 10px!important;
+    }
 }
