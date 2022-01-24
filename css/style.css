@@ -47,7 +47,7 @@ p {
 
 .price-plus span {
     background-color: yellow;
-    margin-left: 200px;
+    margin-left: 160px;
     top: -15px;
     color: #120E43;
 }
@@ -62,6 +62,10 @@ p {
 
 .custom-icon-style {
     color: #5243C2;
+}
+
+.registration-form {
+    background-color: #03203C;
 }
 
 .footer {
