@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
-/* common style */
+/* common style Start */
 
 h1,
 h2,
@@ -18,12 +18,28 @@ p {
     color: #848199;
 }
 
+
+/* common style End */
+
+.nav-color-x {
+    color: #03203C;
+}
+
+.nav-color-mass {
+    color: #FA804C;
+}
+
 .slider-text {
     color: white;
 }
 
-.nav-color {
-    color: #FA804C;
+.carousel-button {
+    background-color: white;
+    color: rgb(4, 84, 98);
+    border: 0;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-weight: 700;
 }
 
 .bg-main {
@@ -101,5 +117,8 @@ p {
     .toast-style {
         margin-left: 0;
         width: 75%!important;
+    }
+    .exclusive-plus {
+        margin-top: 50px!important;
     }
 }
